@@ -1,5 +1,5 @@
-class Solution {
-    public int lengthOfLastWord(String s) {
+ public classlengthOfLastWord {
+    public int lengthOfLastWord (String s) {
 
         // Remove leading and trailing spaces
         s = s.trim();
