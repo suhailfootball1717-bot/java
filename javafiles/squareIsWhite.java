@@ -7,4 +7,3 @@ public class squareIsWhite {
         return (colNumber + rowNumber) % 2 != 0;
     }
 }
-Enna la ithu
